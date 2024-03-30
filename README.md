@@ -1,4 +1,4 @@
-# Project Readme
+# Steel Plate Defect Detection - Kaggle Competition
 
 ## Overview
 This project involves building machine learning models to classify defects in metal plates. The dataset consists of images of metal plates with different types of defects, and the goal is to predict the type of defect present on each plate.
